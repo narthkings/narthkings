@@ -5,7 +5,7 @@ Welcome to my space 😄, I'm a frontend developer, with 2+ years of experience.
 
 
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [@narthcodes](https://twitter.com/narthcodes) [Dumto imoh](https://www.linkedin.com/in/dumto-imoh/)
+- 📫 How to reach me: [@narthcodes](https://twitter.com/narthcodes), [Dumto imoh](https://www.linkedin.com/in/dumto-imoh/)
 -  I’m looking to collaborate on : blockchain projects to solidify my knowledge 🤩
 - 🤔 I’m looking for help with: getting a foreign remote job (Europe or the Americas aint bad)
 - 🌱 I’m currently learning: Blockchain
