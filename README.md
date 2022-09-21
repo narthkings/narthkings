@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Dumto Imoh
 
 ---
-Welcome to my space 😄, I'm a frontend developer, with 2+ years of experience. I love to bring designs to live using React and Vue as my tools also building scalable Frontend applications. Also currently i am beginning my journey into the blockchain world so i can be a Fullstack blockchain Engineer 😊. When i am not coding, you'd definitely catch me on social media sourcing for funny memes and latest trend.
+Welcome to my space 😄, I'm a frontend developer, with 3 years of experience. I love to bring designs to live using React and Vue as my tools also building scalable Frontend applications. Also currently i am beginning my journey into the blockchain world so i can be a Fullstack blockchain Engineer 😊. When i am not coding, you'd definitely catch me on social media sourcing for funny memes and latest trend.
 
 
 - 😄 Pronouns: He/Him
